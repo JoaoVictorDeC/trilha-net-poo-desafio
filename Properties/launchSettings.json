@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DesafioPOO": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
